@@ -6,16 +6,16 @@
 ## Description
 This shows the languages I will learn as well as a link with my favourite things
 ## Setup/Installation Requirements
-* Navigate to the github repository [(here)](https://github.com/Zelawlaw/my-first-website)
-* Clone the repository
+* > Navigate to the github repository [(here)](https://github.com/Zelawlaw/my-first-website)
+* > Clone the repository
   ```sh
     git clone git@github.com:Zelawlaw/my-first-website.git
    ```
-* Navigate to the directory my-first-website
+* > Navigate to the directory my-first-website
   ```sh
     cd my-first-website
    ```
-* view `my-first-webpage.html` using a web browser like chrome
+* > view `my-first-webpage.html` using a web browser like chrome
 
 ## Future Improvements
 Development of a landing page at `index.html`
