@@ -1,4 +1,5 @@
 # Lolo's First Website
+![](images/website_snapshot.png)
 #### Shows my first website with favourite things link ,08-09-2022
 #### By **Lawrence Karani**
 [![lolo](https://media-exp1.licdn.com/dms/image/C4D03AQF3QG2yD07S2A/profile-displayphoto-shrink_400_400/0/1641296434816?e=1668038400&v=beta&t=MHiQgdsfFWHAcO6Y8jwPyVf5zphHYtKPqC0ynTwI2m0)](https://www.linkedin.com/in/lawrencekarani/)
